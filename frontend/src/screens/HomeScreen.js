@@ -28,7 +28,7 @@ const HomeScreen = (props) => {
         </h3>
         <h1 className="title-name">
           {" "}
-          Welcome to<br></br> KAPIL AGENCIES
+          Welcome to<br></br> Agrotech
         </h1>
         <Link
           to={`/search/category/all/name/all/min/0/max/99999/rating/0/order/newest`}

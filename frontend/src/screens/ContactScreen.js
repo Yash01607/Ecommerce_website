@@ -14,7 +14,7 @@ function ContactScreen() {
       <h1>Contact US</h1>
       <h2>
         <strong>Address: </strong>
-        Kapil Agencies, Maruti Mandir Complex, Marked Rd. Mehkar
+        Agrotech, Maruti Mandir Complex, Marked Rd. Mehkar
       </h2>
       <h2>
         <strong>E-Mail: </strong>

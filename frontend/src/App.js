@@ -82,7 +82,7 @@ function App() {
           <header className="row">
             <div className="header-brand">
               <Link className="brand" to="/">
-                Kapil Agencies
+                Agrotech
               </Link>
             </div>
             {width > 1210 && (
